@@ -14,7 +14,7 @@ export default function Home() {
         <span><h3 className="text-lg font-bold">Recently Added</h3></span>
         <ul>
           <li>AC Tap</li>
-          <li>Lumpy's</li>
+          <li>Lumpy&apos;s</li>
           <li>Moccasin Bar</li>
         </ul>
       </div>
@@ -32,7 +32,7 @@ export default function Home() {
         </div>
       </article>
       <article className="p-4">
-        <h2 className="text-lg font-bold">Lumpy's</h2>
+        <h2 className="text-lg font-bold">Lumpy&apos;s</h2>
         <div className="rating">
           <span className="">Overall Rating: </span>
           <span className="text-lg font-bold">⭐️⭐️</span>
